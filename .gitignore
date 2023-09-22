@@ -1,0 +1,5 @@
+ignore/
+# config.py
+__pycache__/
+images/
+.vscode
